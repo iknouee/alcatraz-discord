@@ -1,0 +1,15 @@
+{
+  "name": "alcatraz-discord-bridge",
+  "version": "2.1.0",
+  "description": "Alcatraz SkyGen Discord bridge",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
